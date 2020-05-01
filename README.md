@@ -7,7 +7,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-contact hwang787@gatech.edu, ztang316@gatech.edu, jxie315@gatech.edu or yixuyang@gatech.edu for huge size training & testing data.
 If you want to use our model or code, make sure your folder structure is compatible with our customized dataset.py as well as dataloader. For more detailed, please read this
 [vague and obscure tutorial on pytorch](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)
 
@@ -24,9 +23,7 @@ If you want to use our model or code, make sure your folder structure is compati
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+contact hwang787@gatech.edu, ztang316@gatech.edu, jxie315@gatech.edu or yixuyang@gatech.edu for huge size training & testing data.
 
 ```
 Give the example
