@@ -1,8 +1,4 @@
-# cs7643_project 2020 Spring
-the repository for cs7643_project
-# Project Title
-
-Application of Fixmatch in transfer learning with respect to medical image classfication
+# Application of Fixmatch in transfer learning with respect to medical image classfication
 
 We modify Fixmatch to make it applicable in transfer learning, specialized in medical image classfication
 ## Getting Started
@@ -11,7 +7,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-contact hwang787@gatech.edu, ztang316@gatech.edu, jxie315@gatech.edu or yixuyang@gatech.edu for testing data
+contact hwang787@gatech.edu, ztang316@gatech.edu, jxie315@gatech.edu or yixuyang@gatech.edu for huge size training & testing data.
+If you want to our model or code, please make sure your folder structure is compatible with our customized dataset.py and dataloader. For more detailed, please read tutorial on pytorch: 
 
 ```
 Give examples
@@ -81,9 +78,17 @@ See also the list of [contributors](https://github.com/your/project/contributors
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
+[randaugment.py](https://github.com/kekmodel/FixMatch-pytorch/blob/e867808ab317f64a449988ecb60c8271b677bcb3/dataset/randaugment.py)
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
+- Unofficial PyTorch implementation of MixMatch: A Holistic Approach to Semi-Supervised Learning (https://github.com/YU1ut/MixMatch-pytorch)
+```
+@article{sohn2020fixmatch,
+    title={FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence},
+    author={Kihyuk Sohn and David Berthelot and Chun-Liang Li and Zizhao Zhang and Nicholas Carlini and Ekin D. Cubuk and Alex Kurakin and Han Zhang and Colin Raffel},
+    journal={arXiv preprint arXiv:2001.07685},
+    year={2020},
+}
+```
 
