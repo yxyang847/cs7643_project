@@ -81,16 +81,15 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ```
 @misc{lia_corrales_2015_15991,
     author       = {Jungdae Kim},
-    title        = {{FixMatch}},
+    title        = {{Unofficial PyTorch implementation of MixMatch: A Holistic Approach to Semi-Supervised Learning}},
     year         = 2020,
     version      = {1.0},
     publisher    = {Zenodo},
     url          = {https://github.com/kekmodel/FixMatch-pytorch/blob/e867808ab317f64a449988ecb60c8271b677bcb3/dataset/randaugment.py}
     }
 ```
-* Inspiration
-* etc
-- FixMatch: A Holistic Approach to Semi-Supervised Learning (https://github.com/YU1ut/MixMatch-pytorch)
+
+* FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence (https://github.com/YU1ut/MixMatch-pytorch)
 ```
 @article{sohn2020fixmatch,
     title={FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence},
