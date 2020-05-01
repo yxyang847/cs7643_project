@@ -23,7 +23,7 @@ If you want to use our model or code, make sure your folder structure is compati
 
 ### Installing
 
-contact hwang787@gatech.edu, ztang316@gatech.edu, jxie315@gatech.edu or yixuyang@gatech.edu for huge size training & testing data.
+contact hwang787@gatech.edu, ztang316@gatech.edu, jxie315@gatech.edu or yixuyang@gatech.edu for huge size training & testing data or pretrained model
 
 ```
 Give the example
@@ -66,10 +66,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Ziqi Tang** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Jiajia Xie** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Yixun Yang** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Hanchen Wang** - *Initial work* - [PurpleBooth](https://github.com/hwang787)
+* **Ziqi Tang** - *Initial work* - [Ziqi](https://github.com/PurpleBooth)
+* **Jiajia Xie** - *Initial work* - [Gaga](https://github.com/PurpleBooth)
+* **Yixun Yang** - *Initial work* - [Yixun](https://github.com/PurpleBooth)
+* **Hanchen Wang** - *Initial work* - [hanchen](https://github.com/hwang787)
 
 ## License
 
