@@ -11,7 +11,13 @@ contact hwang787@gatech.edu, ztang316@gatech.edu, jxie315@gatech.edu or yixuyang
 If you want to our model or code, please make sure your folder structure is compatible with our customized dataset.py and dataloader. For more detailed, please read tutorial on pytorch: 
 
 ```
-Give examples
+- Python 3.6+
+- PyTorch 1.4
+- torchvision 0.5
+- tensorboard
+- tqdm
+- numpy
+- apex (optional)
 ```
 
 ### Installing
@@ -34,14 +40,6 @@ End with an example of getting some data out of the system or using it for a lit
 
 
 ### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
 
 Explain what these tests test and why
 
@@ -78,11 +76,21 @@ See also the list of [contributors](https://github.com/your/project/contributors
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-[randaugment.py](https://github.com/kekmodel/FixMatch-pytorch/blob/e867808ab317f64a449988ecb60c8271b677bcb3/dataset/randaugment.py)
-* Hat tip to anyone whose code was used
+
+* A previously developed [randaugment.py](https://github.com/kekmodel/FixMatch-pytorch/blob/e867808ab317f64a449988ecb60c8271b677bcb3/dataset/randaugment.py) were implemented
+```
+@misc{lia_corrales_2015_15991,
+    author       = {Jungdae Kim},
+    title        = {{FixMatch}},
+    year         = 2020,
+    version      = {1.0},
+    publisher    = {Zenodo},
+    url          = {https://github.com/kekmodel/FixMatch-pytorch/blob/e867808ab317f64a449988ecb60c8271b677bcb3/dataset/randaugment.py}
+    }
+```
 * Inspiration
 * etc
-- Unofficial PyTorch implementation of MixMatch: A Holistic Approach to Semi-Supervised Learning (https://github.com/YU1ut/MixMatch-pytorch)
+- FixMatch: A Holistic Approach to Semi-Supervised Learning (https://github.com/YU1ut/MixMatch-pytorch)
 ```
 @article{sohn2020fixmatch,
     title={FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence},
