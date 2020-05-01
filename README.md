@@ -67,9 +67,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Ziqi Tang** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jiajia Xie** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Yixun Yang** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Hanchen Wang** - *Initial work* - [PurpleBooth](https://github.com/hwang787)
 
 ## License
 
